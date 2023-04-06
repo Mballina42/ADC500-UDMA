@@ -1,0 +1,6 @@
+[submodule "vhdl/adc500"]
+	path = vhdl/adc500
+	url = https://gitlab.com/ictp-mlab/adc500.git
+[submodule "ip/core-comblock"]
+	path = ip/core-comblock
+	url = https://gitlab.com/rodrigomelo9/core-comblock.git
